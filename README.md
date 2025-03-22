@@ -3,7 +3,7 @@
 A simple weather application built in Python using PyQt5, providing real-time weather information, forecasts, and more. The app supports dynamic icons, dark mode, and light mode, and gives weather alerts for severe conditions.
 
 ## Compiling
-![Screenshot](file_structure_screenshot.png)
+![Screenshot](file_structure_screenshot.PNG)
 
 ## Features
 - Displays **current weather conditions**.
