@@ -1,0 +1,31 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# IDEs and Editors
+.idea/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Logs
+*.log
+
+# Dependencies
+*.tar.gz
+*.egg-info/
+
+# Windows Executable
+*.exe

@@ -1,0 +1,86 @@
+{
+    "Chicago": {
+        "temperature": 7.3,
+        "windspeed": 11.6,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "cloudy_icon.png"
+    },
+    "Fontana": {
+        "temperature": 15.2,
+        "windspeed": 7.0,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "cloudy_icon.png"
+    },
+    "New Orleans": {
+        "temperature": 12.4,
+        "windspeed": 7.3,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "cloudy_icon.png"
+    },
+    "Ohio": {
+        "temperature": 5.5,
+        "windspeed": 20.5,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "wind_icon.png"
+    },
+    "Oakland": {
+        "temperature": 10.8,
+        "windspeed": 5.2,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "cloudy_icon.png"
+    },
+    "Wrightwood": {
+        "temperature": 9.9,
+        "windspeed": 13.3,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "cloudy_icon.png"
+    },
+    "Rialto": {
+        "temperature": 22.8,
+        "windspeed": 16.0,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "sun_icon.png"
+    },
+    "San Diego": {
+        "temperature": 16.7,
+        "windspeed": 5.8,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "cloudy_icon.png"
+    },
+    "92336-4116": {
+        "temperature": 17.1,
+        "windspeed": 9.4,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "cloudy_icon.png"
+    },
+    "La Verne": {
+        "temperature": 17.9,
+        "windspeed": 8.6,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "cloudy_icon.png"
+    },
+    "Houston": {
+        "temperature": 14.9,
+        "windspeed": 8.3,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "cloudy_icon.png"
+    },
+    "Seattle": {
+        "temperature": 6.9,
+        "windspeed": 19.7,
+        "humidity": "N/A",
+        "precipitation": 0,
+        "icon": "wind_icon.png"
+    }
+}}
