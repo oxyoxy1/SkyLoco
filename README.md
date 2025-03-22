@@ -3,16 +3,7 @@
 A simple weather application built in Python using PyQt5, providing real-time weather information, forecasts, and more. The app supports dynamic icons, dark mode, and light mode, and gives weather alerts for severe conditions.
 
 ## Compiling
-.
-`-- SkyLoco  /
-    |-- background_music.mp3
-    |-- cloudy_icon.png
-    |-- icon.ico
-    |-- SkyLoco.exe
-    |-- rain_icon.png
-    |-- splash_image.png
-    |-- sun_icon.png
-    |-- wind_icon.png
+![Screenshot](file_structure_screenshot.png)
 
 ## Features
 - Displays **current weather conditions**.
